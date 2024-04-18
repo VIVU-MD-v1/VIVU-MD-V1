@@ -1,4 +1,4 @@
-###  POWERED BY  PSYCHO-MD OWNER 👨‍💻...!💬
+###  POWERED BY  VIVU-MD OWNER 👨‍💻...!💬
 
 
 
