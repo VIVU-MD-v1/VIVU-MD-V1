@@ -23,6 +23,7 @@
 😂 තාම deploy කරන්න දීලා නෑ.. වැඩක් බලාගනින් අනුන්ගෙ රෙද්දවල් බලන්නෙ..😂
 
 ---
+තාම me bot හදලා බලලා නැද්ද 😔 HOW *SAD* 😅 කරලා බලන්න ආස හිතෙයි 😂😂
 
 ## CREDITS 
 <a href="https://wa.me/message/DNN5ZGDNMOH6K1"><img src="https://telegra.ph/file/9c7e6c714401add254ac5.jpg" alt="LOGIN WITH PAIR CODE" height="90" width="90"></a>
