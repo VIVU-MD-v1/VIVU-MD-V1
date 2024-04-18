@@ -19,3 +19,9 @@
     
   < Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+😂 තාම deploy කරන්න දීලා නෑ.. වැඩක් බලාගනින් අනුන්ගෙ රෙද්දවල් බලන්නෙ..😂
+
+
+## CREDITS 
+<a href="https://www.coinpayu.com/dashboard/ads_active"><img src="https://telegra.ph/file/105f7645688f80ccec88f.jpg" alt="LOGIN WITH PAIR CODE" width="250"></a>
