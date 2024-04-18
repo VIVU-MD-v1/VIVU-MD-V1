@@ -22,6 +22,7 @@
 
 😂 තාම deploy කරන්න දීලා නෑ.. වැඩක් බලාගනින් අනුන්ගෙ රෙද්දවල් බලන්නෙ..😂
 
+---
 
 ## CREDITS 
-<a href="https://www.coinpayu.com/dashboard/ads_active"><img src="https://telegra.ph/file/105f7645688f80ccec88f.jpg" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://wa.me/message/DNN5ZGDNMOH6K1"><img src="https://telegra.ph/file/9c7e6c714401add254ac5.jpg" alt="LOGIN WITH PAIR CODE" height="90" width="90"></a>
