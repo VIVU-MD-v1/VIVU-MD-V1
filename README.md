@@ -17,5 +17,5 @@
   <a href="https://telegra.ph/file/105f7645688f80ccec88f.jpg">
     <img alt="vivu-md" height="300" src="https://telegra.ph/file/105f7645688f80ccec88f.jpg">
     
-  
+  < Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
