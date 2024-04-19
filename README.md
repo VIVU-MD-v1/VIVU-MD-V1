@@ -35,6 +35,32 @@
 <a href="https://upper-romy-inrl-bot.koyeb.app/viwe/friendpage"><img title="SCAN QR" src="https://img.shields.io/badge/GET SESSION-h?color=black&style=for-the-badge&logo=msi"></a>
 
 ---
+ ### Termux Guide
+
+ ```bash
+termux-setup-storage
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install python
+pkg install python2
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone Your Forked Github Url
+cd vivu-md-v1
+npm i
+npm start
+```
+---
 
 ## CREDITS 
 <a href="https://wa.me/message/DNN5ZGDNMOH6K1"><img src="https://telegra.ph/file/9c7e6c714401add254ac5.jpg" alt="LOGIN WITH PAIR CODE" height="90" width="90"></a>
+---
+### CREATED BY:
+1. ### Danu.Xz
+2. ### Kalum.Xz
