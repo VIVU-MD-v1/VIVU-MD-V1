@@ -1,40 +1,92 @@
 {
-  "name": "VIVU-MD-v1.",
-  "description": "VIVU-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "WhatsApp Image 2024-04-17 at 04.29.59_28ffab8a.jpg",
-  "keywords": ["falcon", "bot", "whatsapp bot", "multi device", "VIVU-MD"],
+  "name": "VIVU-MD-v1",
+  "description": "The best wa bot in Sri lanka",
+  "keywords": ["whatsapp"],
   "success_url": "/",
-
   "env": {
-    "BOT_NUMBER": {
-      "description": "Put the number here.",
-      "required": true
-    },  
-
-    "PASSWORD": {
-      "description": "Enter a password of your choice here",
-      "required": true
-    },
-
     "SESSION_ID": {
-      "description": "Enter session-id here",
-      "required": false
+      "description": "to run the bot",
+      "required": true,
+      "value": ""
     },
-    
-    "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
-      "required": true
+    "HEROKU_API_KEY": {
+      "description": "For updating bot and setting vars remotely",
+      "required": true,
+      "value": ""
     },
-    "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth-token here.",
-      "required": true
-    }   
-},
-
-     "buildpacks": [
-        {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-        }
-     ],
-  "stack": "heroku-22"
+    "HEROKU_APP_NAME": {
+      "description": "Exact name which you gave at the top",
+      "required": true,
+      "value": ""
+    },
+    "WORKTYPE": {
+      "description": "enter bot mode must be public/private",
+      "required": true,
+      "value": "public"
+    },
+    "BOT_INFO": {
+      "description": "baasic bot configration",
+      "required": true,
+      "value": "WhatsApp Image 2024-04-17 at 04.29.59_28ffab8a.jpg"
+    },
+    "PREFIX": {
+      "description": "bot preifx  ., [.,!], false",
+      "required": true,
+      "value": "."
+    },
+    "AUDIO_DATA": {
+      "description": "audio metadata",
+      "required": true,
+      "value": "ᴍᴜꜱɪᴄ;ᴋɪᴅ;https://i.imgur.com/DyLAuEh.jpg"
+    },
+    "STICKER_DATA": {
+      "description": "sticker data",
+      "required": true,
+      "value": "vivu;vivu"
+    },
+    "PERSONAL_MESSAGE": {
+      "description": "personal greetings for first message ",
+      "required": true,
+      "value": "this is a bot, owner is sleeeping.... with Ex"
+    },
+    "REJECT_CALL": {
+      "description": "automatic reject call",
+      "required": true,
+      "value": "true"
+    },
+    "WARN": {
+      "description": "warn count",
+      "required": true,
+      "value": "4"
+    },
+    "SUDO": {
+      "description": "secounds owners of bot",
+      "required": true,
+      "value": "null"
+    },
+    "AJOIN": {
+      "description": "automatically join to all groups",
+      "required": true,
+      "value": "false"
+    },
+    "SAVE_STATUS": {
+      "description": "save all status message",
+      "required": true,
+      "value": "null"
+    },
+    "STATUS_VIEW": {
+      "description": "status views, values= true,only-view=jid, not-view=jid",
+      "required": true,
+      "value": "false"
+    },
+    "ERROR_MSG": {
+      "description": "send error messages to bot number",
+      "required": true,
+      "value": "true"
+    }
+  },
+  "buildpacks": [
+    { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" },
+    { "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest" }
+  ]
 }
