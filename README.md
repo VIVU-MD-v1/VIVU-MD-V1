@@ -20,7 +20,11 @@
   < Loading...
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-😂 තාම deploy කරන්න දීලා නෑ.. වැඩක් බලාගනින් අනුන්ගෙ රෙද්දවල් බලන්නෙ..😂
+---
+#### Deploy To Replit
+
+<a href="https://replit.com/@vivumd2/VIVU-MD-V1-4"><img title="VIVU-MD Deploy Replit" src="https://img.shields.io/badge/DEPLOY REPLIT-h?color=black&style=for-the-badge&logo=Replit"></a>
+
 
 ---
 
