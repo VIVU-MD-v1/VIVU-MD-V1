@@ -1,0 +1,37 @@
+services:
+  - type: web
+    name: VIVU-md
+    env: node
+    branch: main
+    repo: https://github.com/VIVU-MD-v1/VIVU-MD-V1.git
+    buildCommand: npm install
+    startCommand: npm start
+    plan: free
+    autoDeploy: false
+    envVars:
+      - key: SESSION_ID
+        sync: false
+      - key: BOT_INFO
+        value: vivu;bot;https://i.imgur.com/VIpl3q5.mp4
+      - key: WARN_COUNT
+        value: 4
+      - key: STATUS_VIEW
+        value: true
+      - key: SAVE_STATUES
+        value: false
+      - key: STICKER_DATA
+        value: vivu;MD
+      - key: PREFIX
+        value: [!,/.]
+      - key: WORK_TYPE
+        value: private
+      - key: CHATBOT
+        value: true
+      - key: REACT
+        value: command
+      - key: AUDIO_DATA
+        value: inrl;bot;https://i.imgur.com/VgxJeCm.jpeg
+      - key: SUDO
+        value: 94766911711
+      - key: DATABASE_URL
+        sync: false
