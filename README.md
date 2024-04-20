@@ -18,16 +18,7 @@
 <br>
 • Sri Lanka Best and fast whatsapp bot
 <br>
----
-   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=1.+Fork+This+Repo)](https://github.com/nipuna15)
-   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=2.+Scan+QR+Code)](https://github.com/nipuna15)
-   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=3.+Make+Heroku+&+Uffizzi+Deploy+Link+Your+own)](https://github.com/nipuna15)
-   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=4.+Add+App+Name+And+Deploy)](https://github.com/nipuna15)
-   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=5.+Watch+Your+Heroku+Log)](https://github.com/nipuna15)
 
-   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
----
   <p align="center">  
   <a href="https://telegra.ph/file/105f7645688f80ccec88f.jpg">
     <img alt="vivu-md" height="300" src="https://telegra.ph/file/105f7645688f80ccec88f.jpg">
@@ -66,6 +57,18 @@ cd vivu-md-v1
 npm i
 npm start
 ```
+---
+  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=008000&lines=HOW+TO+DEVOLP+BY;MADE+BY+CYBER+TECH+TEAM..)](https://git.io/typing-svg)
+   
+   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=1.+Fork+This+Repo)](https://github.com/nipuna15)
+   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=2.+Scan+QR+Code)](https://github.com/nipuna15)
+   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=3.+Make+Heroku+&+Uffizzi+Deploy+Link+Your+own)](https://github.com/nipuna15)
+   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=4.+Add+App+Name+And+Deploy)](https://github.com/nipuna15)
+   ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F008000&lines=5.+Watch+Your+Heroku+Log)](https://github.com/nipuna15)
+
+   
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
+  
 ---
 
 ## CREDITS 
