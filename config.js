@@ -3,16 +3,16 @@ const { existsSync } = require('fs')
 const { Sequelize } = require('sequelize');
 if (existsSync('config.env')) require('dotenv').config({ path: './config.env' })
 process.env.NODE_OPTIONS = '--max_old_space_size=2560'//2.5
-const DB_URL =  process.env.DATABASE_URL || '';
+const DB_URL =  process.env.DATABASE_URL || 'mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority';
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || '', //your ssid to run bot
+    SESSION_ID: process.env.SESSION_ID || 'inrl~d4bdePF71101091722e226177ac8c4b203b7', //your ssid to run bot
     HEROKU: {
         API_KEY: process.env.HEROKU_API_KEY,
         APP_NAME: process.env.HEROKU_APP_NAME
     },
     PORT: process.env.PORT || 3000,
     BASE_URL : "https://upper-romy-inrl-bot.koyeb.app/",
-    REPO: "inrl-official/inrl-bot-md",
+    REPO: "vivu-official/vivu-bot-md",
     BGM_URL : process.env.BGM_URL || "null",
     REJECT_CALL : toBool(process.env.REJECT_CALL || 'true'),
     BADWORD_BLOCK : toBool(process.env.BADWORD_BLOCK || 'true'),
